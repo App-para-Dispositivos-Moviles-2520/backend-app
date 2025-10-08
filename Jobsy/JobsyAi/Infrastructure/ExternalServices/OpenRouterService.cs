@@ -8,7 +8,7 @@ namespace Jobsy.JobsyAi.Infrastructure.ExternalServices;
 public class OpenRouterService : IChatService
 {
     private readonly HttpClient _httpClient;
-    private readonly string _apiKey = ""; //remplaza tu apikey que te da
+    private readonly string _apiKey = "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"; //remplaza tu apikey que te da
 
     public OpenRouterService(HttpClient httpClient)
     {

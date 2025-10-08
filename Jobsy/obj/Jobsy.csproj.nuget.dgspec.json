@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\PROYECTO - APP MOVILE\\backend\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\Jobsy\\Jobsy.csproj": {}
+    "C:\\Users\\Ricardo\\Downloads\\JUEGO_GAMELab\\JUEGO_GAMELab\\backend-app\\Jobsy\\Jobsy.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\PROYECTO - APP MOVILE\\backend\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\Jobsy\\Jobsy.csproj": {
+    "C:\\Users\\Ricardo\\Downloads\\JUEGO_GAMELab\\JUEGO_GAMELab\\backend-app\\Jobsy\\Jobsy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\PROYECTO - APP MOVILE\\backend\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\Jobsy\\Jobsy.csproj",
+        "projectUniqueName": "C:\\Users\\Ricardo\\Downloads\\JUEGO_GAMELab\\JUEGO_GAMELab\\backend-app\\Jobsy\\Jobsy.csproj",
         "projectName": "Jobsy",
-        "projectPath": "D:\\Escritorio\\PROYECTO - APP MOVILE\\backend\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\Jobsy\\Jobsy.csproj",
-        "packagesPath": "C:\\Users\\Ronald\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\PROYECTO - APP MOVILE\\backend\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\backend-app-68795724639ef4bf8b3c340539b5c3ded0c97e2c\\Jobsy\\obj\\",
+        "projectPath": "C:\\Users\\Ricardo\\Downloads\\JUEGO_GAMELab\\JUEGO_GAMELab\\backend-app\\Jobsy\\Jobsy.csproj",
+        "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ricardo\\Downloads\\JUEGO_GAMELab\\JUEGO_GAMELab\\backend-app\\Jobsy\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ronald\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -108,7 +115,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
