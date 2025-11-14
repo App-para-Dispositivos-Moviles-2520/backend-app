@@ -80,6 +80,9 @@ builder.Services.AddCors(options =>
             policy.WithOrigins("http://localhost:5176") // Vue dev server
                 .AllowAnyHeader()
                 .AllowAnyMethod();
+            policy.WithOrigins("http://localhost:5195") // Vue dev server
+                .AllowAnyHeader()
+                .AllowAnyMethod();
         });
 });
 //----------------
